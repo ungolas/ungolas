@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am currently enrolled in a bachelor's degree program in computer science at the University of Vienna
+
 <!--
 **ungolas/ungolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
