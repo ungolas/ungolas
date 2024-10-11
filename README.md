@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am currently enrolled in a bachelor's degree program in computer science at the University of Vienna
+- I am currently enrolled in a master's degree program in Automation Engineering at the Technical University of Vienna and in a bachelor's degree program in Computer Science at the University of Vienna.
 
 <!--
 **ungolas/ungolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
